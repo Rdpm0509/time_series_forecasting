@@ -1,0 +1,6 @@
+,14
+changepoint_prior_scale,0.01
+holidays_prior_scale,20
+seasonality_mode,additive
+seasonality_prior_scale,20
+rmse,48.4
